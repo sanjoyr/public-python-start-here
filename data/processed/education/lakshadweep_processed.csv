@@ -1,0 +1,7 @@
+district_code,area_type,age_group,total_persons,male_persons,female_persons,total_illiterate,male_illiterate,female_illiterate,total_literate,male_literate,female_literate,persons_check,illiterate_check,literate_check,is_valid
+0,total,all ages,64473,33123,31350,11920,5100,6820,52553,28023,24530,0,0,0,True
+0,rural,all ages,14141,7243,6898,2853,1294,1559,11288,5949,5339,0,0,0,True
+0,urban,all ages,50332,25880,24452,9067,3806,5261,41265,22074,19191,0,0,0,True
+587,total,all ages,64473,33123,31350,11920,5100,6820,52553,28023,24530,0,0,0,True
+587,rural,all ages,14141,7243,6898,2853,1294,1559,11288,5949,5339,0,0,0,True
+587,urban,all ages,50332,25880,24452,9067,3806,5261,41265,22074,19191,0,0,0,True
